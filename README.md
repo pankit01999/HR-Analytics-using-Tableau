@@ -1,4 +1,6 @@
 # HR-Analytics-using-Tableau
+
+Project Link:https://public.tableau.com/app/profile/ankit.pandey4383/viz/HRANALYTICS_16948599137520/Dashboard?publish=yes
 Solving HR analytics using Tableau involves creating data visualizations and dashboards to gain insights into various human resources-related metrics. Here's a step-by-step guide on how to approach HR analytics using Tableau:
 
 **1. Data Collection and Preparation:**
