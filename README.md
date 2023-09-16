@@ -48,3 +48,6 @@ Solving HR analytics using Tableau involves creating data visualizations and das
     - Ensure that users understand how to use filters, interpret visualizations, and extract insights.
 
 By following these steps, you can effectively use Tableau for HR analytics to gain valuable insights into your organization's workforce, recruitment, employee engagement, and other HR-related areas. These insights can inform strategic decisions and help improve overall HR management.
+
+![HR ANALTICS DASHBOARD](https://github.com/pankit01999/HR-Analytics-using-Tableau/assets/143706134/b0042111-f667-423a-835a-fadb876a58ee)
+
